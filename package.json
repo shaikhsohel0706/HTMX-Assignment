@@ -1,0 +1,22 @@
+{
+  "name": "htmx-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "node-fetch": "^3.3.2",
+    "xss": "^1.0.15"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
